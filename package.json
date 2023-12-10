@@ -1,0 +1,14 @@
+{
+  "name": "clipboard-js-example-project",
+  "version": "1.0.0",
+  "description": "This is an example project that im creating in order to get a working knowledge of the clipboard.js javascript library.The project is just a simple code tutorial page with code examples that can be copied to the clipboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "joshua mabawonku",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "clipboard": "^2.0.11"
+  }
+}
